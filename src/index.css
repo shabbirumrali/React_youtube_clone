@@ -30,7 +30,7 @@ a {
   color: white !important;
 }
 
-.category-btn:hover span{
+.category-btn:hover span {
   color: white !important;
 }
 
@@ -39,7 +39,7 @@ a {
   width: 100% !important;
 }
 
-.search-bar{
+.search-bar {
   border:none;
   outline:none;
   width:350px;
